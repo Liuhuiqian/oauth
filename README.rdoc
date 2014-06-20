@@ -68,3 +68,4 @@ OAuth Ruby has been created and maintained by a large number of talented individ
 The current maintainer is Aaron Quint (quirkey).
 
 Comments are welcome. Send an email to via the OAuth Ruby mailing list http://groups.google.com/group/oauth-ruby
+======================
